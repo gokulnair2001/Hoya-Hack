@@ -1,0 +1,16 @@
+PODS:
+  - Loafjet (1.0.1)
+
+DEPENDENCIES:
+  - Loafjet
+
+SPEC REPOS:
+  trunk:
+    - Loafjet
+
+SPEC CHECKSUMS:
+  Loafjet: c106db4411c645eff6251d204ce95d3b7ad2f8d1
+
+PODFILE CHECKSUM: 836164a4eaaaa53e01e53f4b01a48f2e48264a26
+
+COCOAPODS: 1.9.3
