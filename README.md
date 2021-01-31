@@ -15,7 +15,7 @@
 ![badge](https://img.shields.io/badge/Custom-Backend-yello)
 
 # Introduction ⚒  
-Doctor Bot is a medical assistant app used to diagnose various diseases, suggest medicines and save your report history. The app works on various types of high level Machine Learning Model. The Machine Learning Model learns the input image and shows you the result. This app consists of a medical bot which guides you the medicine to take according to the symptoms you have. You can even add your report history which gets saved on a custom database.
+Doctor Bot is a Medical assistant app used to diagnose various diseases, suggest medicines and save your report history. The app works on various types of high level Machine Learning Model. The Machine Learning Model learns the input image and shows you the result. This app consists of a medical bot which guides you the medicine to take according to the symptoms you have. You can even add your report history which gets saved on a custom database.
 
 # Inspiration ❤️
 The idea behind construction of this app was to remove mental pressure of people when they get affected by diseases. During this pandemic when people are not able to visit hospitals frequently they can use this app to identify what diseases are they affected from. The app provides 89% accurate result. The app even provides medicinal suggestions according to the symptoms you have. During this high time when people fear to go hospitals, they can have the same guidance and suggestions being at home using Doctor Bot. 
