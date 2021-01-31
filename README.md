@@ -15,10 +15,10 @@
 ![badge](https://img.shields.io/badge/Custom-Backend-yello)
 
 # Introduction ⚒  
-Doctor Bot is a medical assistant app used to diagnose various diseases, suggest medicines and to save your report history. The app work on various types of high level Machine Learning model. The machine Learning model learns the input image and shows you result. The app consists of an medical bot which guides you medicine according to the symptoms you have. Even you can add your report history which get saved on a custom database.
+Doctor Bot is a medical assistant app used to diagnose various diseases, suggest medicines and save your report history. The app works on various types of high level Machine Learning Model. The Machine Learning Model learns the input image and shows you the result. This app consists of a medical bot which guides you the medicine to take according to the symptoms you have. You can even add your report history which gets saved on a custom database.
 
 # Inspiration ❤️
-The idea behind construction of this app was to remove mental pressure of people when they get affected by diseases. During this pandemic when people are not able to visit hospitals frequently they can use this app to identify what diseases are they affected from. The app provides 89% accurate result. The app even provides medicinal suggestions according to the symptoms you have. During this hight time when people fear to go hospitals, they can have the same guidance and suggestions being at home using Doctor Bot . 
+The idea behind construction of this app was to remove mental pressure of people when they get affected by diseases. During this pandemic when people are not able to visit hospitals frequently they can use this app to identify what diseases are they affected from. The app provides 89% accurate result. The app even provides medicinal suggestions according to the symptoms you have. During this high time when people fear to go hospitals, they can have the same guidance and suggestions being at home using Doctor Bot. 
 
 So our idea was to create an app which provides 100% guidance and suggestions to a patient regardless of going to the hospital.
 
@@ -27,12 +27,12 @@ This app have a great impact on our society:
 * Reduction in use of carbon films. 
 * Secure and safe storage of your report.
 * Less mental pressure.
-* Reduction in capital spent on hospitals .
+* Reduction in capital spent on hospitals.
 * Record history of diagnostic checkups.
 
 # Database 🎚
-* The whole app works on custom database. The backend is made with MonoDB and Express and written on NodeJS.
-* Due to some privacy policy we had not added the backend code here. If you want to get an idea about the backend visit [Ping!](https://github.com/gokulnair2001/Ping-App-Backend). This app is made by our Developer only!.
+* The whole app works on custom database. The backend is made with MongoDB and Express and written on NodeJS.
+* Due to some privacy policy we have not added the backend code here. If you want to get an idea about the backend visit [Ping!](https://github.com/gokulnair2001/Ping-App-Backend). This app is made by our Developer only!.
 
 # Steps to run 📲
 
@@ -54,10 +54,10 @@ This app have a great impact on our society:
  e. Nail Disease  <br>
  
 2. Medi-Bot
-* Medi-Bot is a medicine suggetion bot which provides you perfect medicine according to your symptoms . Provide your symptoms to the bot and the bot will show you the best suitable medicine for you. How convenient , isn't it? The same feeling which you can get with a doctor!.
+* Medi-Bot is a medicine suggestion bot which provides you the perfect medicine according to your symptoms . Provide your symptoms to the bot and the bot will show you the best suitable medicine for you. How convenient, isn't it? The same feeling which you can get with a doctor!.
 
 3. Diagnostic History
-* The History section consists of your previous diagnosis details. Forgot about your last diagnosis , get to the history to know about it. We keep your records safe in our app.
+* The History section consists of your previous diagnosis details. Forgot about your last diagnosis, get to the history to know about it. We keep your records safe in our app.
 
 4. Report History
 * Irritated with lots of hospital files, use "Report History", we provide you a perfect place where you can save all your previous reports and details. Getover with the mess of handling many files, save your data in Report History and we assure you that your data is protected with Doctor Bot.
@@ -106,17 +106,11 @@ MIT License<br> Please read the [License](https://github.com/gokulnair2001/Docto
 * ML Model Dataset credits :[kaggle](https://www.kaggle.com/datasets) 
 glad to work with you.
 
-# Like the Project ?
-If you like using any of my projects or like what I'm doing, please consider backing me with appreciating my work: [Message me](https://www.linkedin.com/in/gokul-r-nair/)🥰
-
-[<img width="200" alt="BMC logo+wordmark - Black" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png">](https://www.buymeacoffee.com/gokulnair)
-
-OR
-
-**Drop a star ⭐ if you find this project interesting!**
-
 <p align="center" width="100%">
-   Made with ❤️ in 🇮🇳 By Gokul Nair  
+Made with Love by The Innova House.
+ <br>
+This repository is for Hoya Hack 2021 on Devpost.
+ <br>
+Anmol Bansal | Gokul Nair | Harsh Londhekar | Nikhil Kumar Parashar
 </p>
 
-# Hoya-Hack
